@@ -406,14 +406,16 @@ Mean Squared Error is the measure of the square of the difference between actual
 In this project, a variety of machine learning algorithms and models were experimented. As we have mentioned earlier, we found that the algorithm which works best for this dataset is where grouping of data points is done, and feature dimensions is increased by adding more features from this grouping and also some manual features. Also, LightGBM being fast and efficient for large datasets works the best.
 
 # **5. References:**
-Dataset - <https://www.kaggle.com/competitions/pubg-version-3/data>
+- Dataset - <https://www.kaggle.com/competitions/pubg-version-3/data>
 
-Linear Regression - [Linear Regression Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+- Linear Regression - [Linear Regression Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
-Random Forest Regressor - [Random Forest Regressor Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+- Random Forest Regressor - [Random Forest Regressor Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
-XGBoost - <https://xgboost.readthedocs.io/en/stable/>
+- XGBoost - <https://xgboost.readthedocs.io/en/stable/>
 
-Light GBM - <https://lightgbm.readthedocs.io/en/v3.3.2/>
+- Light GBM - <https://lightgbm.readthedocs.io/en/v3.3.2/>
 
-<https://pubg.fandom.com/wiki/PLAYERUNKNOWNS_BATTLEGROUNDS>
+## Kaggle Link:
+- Kaggle Notebook Link:  https://www.kaggle.com/code/rajkachhadiya/pubg-eda-and-feature-engineering-and-lightgbm
+- Kaggle Profile : https://www.kaggle.com/rajkachhadiya
