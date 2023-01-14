@@ -165,7 +165,6 @@ Following table shows the columns and the corresponding aggregation function whi
 |*DBNOs*|*sum*|*revives*|*sum*|
 |*headshotKills*|*sum*|*rideDistance*|*max*|
 |*matchId*|*max*|*maxPlace*|*mean*|
-| :-: | :-: | :-: | :-: |
 |*assists*|*sum*|*numGroups*|*mean*|
 |*boosts*|*sum*|*rankPoints*|*max*|
 |*damageDealt*|*sum*|*matchType*|*mean*|
@@ -189,6 +188,7 @@ Here we have significantly reduced the dataset memory, but is it legit reducing 
 
 
 We also plotted the continuous features for both the original dataset and the reduced one and noticed that they were also similar. Let's have a look at it.
+
 ![image](https://user-images.githubusercontent.com/110079774/212449365-16da0682-26f7-4dda-b484-a3af933fa95f.png)
 
 So here both distributions are looking similar, let's have a look on how the correlation of the columns with winPlacePerc is affected. 
